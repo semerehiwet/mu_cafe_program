@@ -2,7 +2,7 @@ import os
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8601948108:AAGeRbLQ0II9mDdK9p7qmqOM_AOk1FFD_gI")
 
 # Menu keyboard
 main_menu = [["🍽 የምግብ ፕሮግራም", "📍 የካፌ location"], ["❓ Help"]]
